@@ -1,4 +1,4 @@
-### New Version Available
+### New Version Available:
 
 A new version of this project is now available, built with React!
 
